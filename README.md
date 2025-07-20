@@ -11,6 +11,7 @@
 - Push the program source code to the assignment repo. 
 
 ### Example Output
+
 ![Screenshot](example.jpg)
 
 ### Evaluation:
